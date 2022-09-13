@@ -28,5 +28,4 @@ buttons.forEach((btn) => {
         value.textContent = count
         
     })
-    
 })
